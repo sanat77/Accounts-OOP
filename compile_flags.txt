@@ -1,0 +1,9 @@
+-IC:\Users\kohlz\OneDrive\Desktop\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++
+-IC:\Users\kohlz\OneDrive\Desktop\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\x86_64-w64-mingw32
+-IC:\Users\kohlz\OneDrive\Desktop\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include\c++\backward
+-IC:\Users\kohlz\OneDrive\Desktop\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include
+-IC:\Users\kohlz\OneDrive\Desktop\mingw-w64\mingw64\lib\gcc\x86_64-w64-mingw32\8.1.0\include-fixed
+-IC:\Users\kohlz\OneDrive\Desktop\mingw-w64\mingw64\x86_64-w64-mingw32\include
+-I"C:\Users\kohlz\OneDrive\Desktop\cpp projects\Example\accounts"
+-target
+x86_64-pc-windows-gnu
